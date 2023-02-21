@@ -10,10 +10,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <Header title="Welcome to my app!" />
+      <main>کــافه هین" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
         </p>
       </main>
 
